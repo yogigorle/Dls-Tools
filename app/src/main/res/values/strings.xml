@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Dls Tools</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="ruppe">₹ </string>
+    <string name="about_me_txt">Hello there, This is YOGENDRA GORLE  i am also a part of DLS family and i had got numerous changes in my life because of this DLS course . I am an Android app developer working in a startup so i used my skills to craft this app which can makes our lives easier in providing some valuable content from the course it self, this is my contribution towards the DLS family . Hope you all loved it if you got any suggestions and want to give your consent please feel free to reach me .
+
+\n\n\n\nGMAIL - gorleyogi@gmail.com
+\n\nINSTAGRAM - @iamyogigorle
+\n\nLINKEDIN  - https://www.linkedin.com/in/yogendra-gorle-a53705127/</string>
+
+    <string name="made_text">Made with ❤️ in DLS</string>
+    <string name="module1">Winners Mindset</string>
+    <string name="module2">Dream Life Roadmap</string>
+    <string name="module3">Complete Toolkit</string>
+    <string name="money_caluculation">T W C G O</string>
+    <string name="about_me">About Me</string>
+</resources>

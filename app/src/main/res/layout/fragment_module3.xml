@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Module3Fragment">
+
+    <com.airbnb.lottie.LottieAnimationView
+        android:id="@+id/rotating_bar"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:lottie_rawRes="@raw/rotating_bar" />
+
+    <TextView
+        android:id="@+id/tv_error_3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:fontFamily="@font/montana"
+        android:text="Please Close the app and REOPEN again, Sorry for the Inconvinience Caused."
+        android:textAlignment="center"
+        android:textColor="@android:color/black"
+        android:textSize="32dp"
+        android:visibility="gone" />
+
+
+    <androidx.viewpager.widget.ViewPager
+        android:id="@+id/vp_quotes_module3"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+</FrameLayout>

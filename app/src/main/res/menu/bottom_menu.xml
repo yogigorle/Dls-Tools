@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/module_1"
+        android:icon="@drawable/ic_winners_habits_icon"
+        android:title="Winners Habits"
+        app:cnb_backgroundColor = "#132334"
+        app:cnb_textColor = "#fff"
+        app:cnb_iconColor = "#fff"/>
+
+    <item
+        android:id="@+id/module_2"
+        android:icon="@drawable/ic_dream_life_roadmap_icon"
+        android:title="Dream Life Roadmap"
+        app:cnb_backgroundColor = "#132334"
+        app:cnb_textColor = "#fff"
+        app:cnb_iconColor = "#fff" />
+
+
+    <item
+        android:id="@+id/module_3"
+        android:icon="@drawable/ic_complete_tool_kit_icon"
+        android:title="Complete Toolkit"
+        app:cnb_backgroundColor = "#132334"
+        app:cnb_textColor = "#fff"
+        app:cnb_iconColor = "#fff"/>
+</menu>

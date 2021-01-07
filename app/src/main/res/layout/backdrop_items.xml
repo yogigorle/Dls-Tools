@@ -1,0 +1,45 @@
+<merge xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <com.google.android.material.button.MaterialButton
+        style="@style/Widget.DLS.Button.TextButton"
+        android:id="@+id/tv_module1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/module1" />
+
+    <com.google.android.material.button.MaterialButton
+        style="@style/Widget.DLS.Button.TextButton"
+        android:id="@+id/tv_module2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/module2" />
+
+    <com.google.android.material.button.MaterialButton
+        style="@style/Widget.DLS.Button.TextButton"
+        android:id="@+id/tv_module3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/module3" />
+
+    <com.google.android.material.button.MaterialButton
+        style="@style/Widget.DLS.Button.TextButton"
+        android:id="@+id/tv_money_caluculation"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/money_caluculation" />
+
+
+    <View
+        android:layout_width="56dp"
+        android:layout_height="1dp"
+        android:layout_margin="16dp"
+        android:background="@android:color/black" />
+
+    <com.google.android.material.button.MaterialButton
+        style="@style/Widget.DLS.Button.TextButton"
+        android:id="@+id/tv_abt_me"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/about_me" />
+
+</merge>
